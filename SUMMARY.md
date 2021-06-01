@@ -21,7 +21,7 @@
                 * [Untitled](skill-gems/active-skill-gems/by-main-attribute/intelligence/arcane-cloak/untitled/untitled/untitled/untitled/untitled.md)
     * [Dexterity](skill-gems/active-skill-gems/by-main-attribute/dexterity.md)
   * [Sorted by Tag](skill-gems/active-skill-gems/by-tag.md)
-* [Support Gems](skill-gems/support-gems.md)
+* [Support Skill Gems](skill-gems/support-gems.md)
 
 ## Items
 
@@ -42,4 +42,9 @@
 * [Templates](contributing-to-gitwiki/templates.md)
 
 ## External Links
+
+---
+
+* [PoEDB](https://poedb.tw)
+* [poe.ninja](https://poe.ninja/)
 
