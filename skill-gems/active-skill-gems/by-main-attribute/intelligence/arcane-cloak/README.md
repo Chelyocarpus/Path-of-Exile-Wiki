@@ -36,6 +36,20 @@ Spends a portion of your Mana to grant a Buff that takes some of the damage from
 
 Lorem Ipsum
 
+{% tabs %}
+{% tab title="Superior" %}
+
+{% endtab %}
+
+{% tab title="Anomalous" %}
+
+{% endtab %}
+
+{% tab title="Divergent" %}
+
+{% endtab %}
+{% endtabs %}
+
 | Prefix | Modifier | Per 1% Quality |
 | :--- | :--- | :--- |
 | Superior | `(0–20)%` increased Skill Effect Duration | 1% increased Skill Effect Duration |
