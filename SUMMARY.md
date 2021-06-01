@@ -36,10 +36,10 @@
 * [Accessories](equipment/accessories.md)
 * [Flasks](equipment/flasks.md)
 
-## Contributing to Wiki
+## Contributing to GitWiki
 
-* [Quick Start](contributing-to-wiki/quick-start.md)
-* [Templates](contributing-to-wiki/templates.md)
+* [Quick Start](contributing-to-gitwiki/quick-start.md)
+* [Templates](contributing-to-gitwiki/templates.md)
 
 ## External Links
 
