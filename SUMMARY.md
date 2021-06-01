@@ -2,6 +2,11 @@
 
 * [Overview](README.md)
 
+## Mechanics
+
+* [Vendor Recipes](mechanics/vendor-recipes.md)
+* [Crafting](mechanics/crafting.md)
+
 ## Skill Gems
 
 * [Active Skill Gems](skill-gems/active-skill-gems/README.md)
@@ -20,11 +25,20 @@
 
 ## Items
 
-## Contributing
+* [Currency](items/currency.md)
+* [Maps](items/maps.md)
+* [Jewels](items/jewels.md)
 
-* [Quick Start](contributing/quick-start.md)
+## Equipment
+
+* [Weapons](equipment/weapons.md)
+* [Armour](equipment/armour.md)
+* [Accessories](equipment/accessories.md)
+* [Flasks](equipment/flasks.md)
+
+## Contributing to Wiki
+
+* [Quick Start](contributing-to-wiki/quick-start.md)
 
 ## External Links
-
-* [Untitled](external-links/untitled.md)
 
