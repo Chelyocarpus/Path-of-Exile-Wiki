@@ -1,5 +1,9 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Overview](README.md)
 * [Arcane Cloak](arcane-cloak.md)
+
+## Items
+
+* [Untitled](items/untitled.md)
 
