@@ -39,6 +39,7 @@
 ## Contributing to Wiki
 
 * [Quick Start](contributing-to-wiki/quick-start.md)
+* [Templates](contributing-to-wiki/templates.md)
 
 ## External Links
 
