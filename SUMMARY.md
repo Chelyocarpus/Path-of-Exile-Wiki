@@ -2,8 +2,6 @@
 
 * [Overview](README.md)
 
-## Items
-
 ## Skill Gems
 
 * [Active Skill Gems](skill-gems/active-skill-gems/README.md)
@@ -13,4 +11,10 @@
       * [Untitled](skill-gems/active-skill-gems/intelligence/arcane-cloak/untitled.md)
   * [Strength](skill-gems/active-skill-gems/strength.md)
 * [Support Gems](skill-gems/support-gems.md)
+
+## Items
+
+## Contributing
+
+* [Quick Start](contributing/quick-start.md)
 
