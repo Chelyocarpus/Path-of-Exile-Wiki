@@ -2,6 +2,12 @@
 
 * [Overview](README.md)
 
+## Content
+
+* [Delirium](content/delirium.md)
+* [Heist](content/heist.md)
+* [War of the Atlas](content/war-of-the-atlas.md)
+
 ## Mechanics
 
 * [Vendor Recipes](mechanics/vendor-recipes.md)
@@ -33,7 +39,9 @@
 
 * [Weapons](equipment/weapons.md)
 * [Armour](equipment/armour.md)
-* [Accessories](equipment/accessories.md)
+* [Accessories](equipment/accessories/README.md)
+  * [Rings](equipment/accessories/rings.md)
+  * [Amulets](equipment/accessories/amulets.md)
 * [Flasks](equipment/flasks.md)
 
 ## Contributing to GitWiki

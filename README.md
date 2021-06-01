@@ -11,6 +11,7 @@ description: >-
 * To edit a page click on **Edit on GitHub** on the right hand side.
 * To report an issue click on **Report Issue** at the top.
 * If you want to talk about something click on **Join the Discussions** at the top.
+* **Pull requests** are automatically merged.
 * All of these actions require a **free GitHub Account**.
 {% endhint %}
 
