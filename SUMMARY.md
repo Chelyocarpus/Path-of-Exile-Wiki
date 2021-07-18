@@ -6,7 +6,7 @@
 
 * [Delirium](content/delirium.md)
 * [Heist](content/heist.md)
-* [War of the Atlas](content/war-of-the-atlas.md)
+* [War for the Atlas](content/war-for-the-atlas.md)
 
 ## Mechanics
 

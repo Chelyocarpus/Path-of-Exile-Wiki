@@ -1,2 +1,0 @@
-# War of the Atlas
-
