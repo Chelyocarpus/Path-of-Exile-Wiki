@@ -48,6 +48,7 @@
 
 * [Quick Start](contributing-to-gitwiki/quick-start.md)
 * [Templates](contributing-to-gitwiki/templates.md)
+* [Ressources](contributing-to-gitwiki/ressources.md)
 
 ## External Links
 
@@ -55,4 +56,10 @@
 
 * [PoEDB](https://poedb.tw)
 * [poe.ninja](https://poe.ninja/)
+
+## Legal
+
+* [Terms of Service](legal/terms-of-service.md)
+* [Privacy Policy](legal/privacy-policy.md)
+* [About](legal/about.md)
 
